@@ -16,3 +16,5 @@ The data was coverted to numerical variables as machine model deals with numbers
 - Location_d and Automation_Risk_d are the two most impactful variables, with Location_d having a positive effect and Automation_Risk_d having a negative one.
 - Variables related to AI adoption, job growth projections, and required skills also significantly contribute to the outcome, though their influence is smaller than the top two.
 - Other features, such as Job_Title_d, Remote_Friendly_d, Company_Size_d, and Industry_d, play lesser roles but still contribute to the model's output.
+  ### Technology
+  jupyter notebook
